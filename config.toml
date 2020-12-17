@@ -1,5 +1,24 @@
 baseURL = "https://lord-rapture.github.io"
 languageCode = "en-us"
 title = "Lord Rapture"
-theme = "hugo-notepadium"
+theme = "github-style"
 publishDir = "docs"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  contributions = "post"
+  author = "Lord Rapture"
+  github = "Lord-Rapture"
+  description = "</head><body>"
+  twitter = "LordRapture"
+  email = "L.Rapture@protonmail.com"
+  url = "https://lord-rapture.github.io"
+  keywords = "blog, google analytics"
+  rss = false
+  location = "Birmingham, UK"
+  lastmod = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

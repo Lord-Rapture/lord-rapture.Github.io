@@ -2,12 +2,12 @@
 title: "The start of the End"
 date: 2020-12-17T18:30:12Z
 draft: true
-tags: ["start", "FristPost"]
+tags: ["start", "FirstPost"]
 categories: ["General"]
 summary: "Lets talk about me!"
 author: "Elliott Buckingham"
 ---
-![Long Road!]("../../../../resources/_gen/images/long_road.jpeg")
+![Long Road!](https://github.com/Lord-Rapture/lord-rapture.Github.io/blob/main/resources/_gen/images/long_road.jpeg?raw=true)
 # Starting the road
 So this website is a way to track all of the things that i get up to in a hope that i can use this as part of my CV. At the moment the page is just very simply a HUGO page with a blog attached to it. We will just have to see where it goes.
 
