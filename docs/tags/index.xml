@@ -5,6 +5,25 @@
     <link>https://lord-rapture.github.io/tags/</link>
     <description>Recent content in Tags on Lord Rapture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lord-rapture.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Dec 2020 18:30:12 +0000</lastBuildDate><atom:link href="https://lord-rapture.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstPost</title>
+      <link>https://lord-rapture.github.io/tags/firstpost/</link>
+      <pubDate>Thu, 17 Dec 2020 18:30:12 +0000</pubDate>
+      
+      <guid>https://lord-rapture.github.io/tags/firstpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>start</title>
+      <link>https://lord-rapture.github.io/tags/start/</link>
+      <pubDate>Thu, 17 Dec 2020 18:30:12 +0000</pubDate>
+      
+      <guid>https://lord-rapture.github.io/tags/start/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

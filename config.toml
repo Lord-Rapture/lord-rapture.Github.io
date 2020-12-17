@@ -10,7 +10,7 @@ pygmentsUseClasses = true
 [params]
   contributions = "post"
   author = "Lord Rapture"
-  github = "Lord-Rapture"
+  github = "Elliott Buckingham"
   description = "</head><body>"
   twitter = "LordRapture"
   email = "L.Rapture@protonmail.com"
@@ -19,7 +19,7 @@ pygmentsUseClasses = true
   rss = false
   location = "Birmingham, UK"
   lastmod = true
-  avatar = "./resources/_gen/images/avatar.png"
+  avatar = "https://github.com/Lord-Rapture/lord-rapture.Github.io/blob/main/resources/_gen/images/avatar.png?raw=true"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]

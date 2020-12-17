@@ -1,7 +1,7 @@
 ---
 title: "The start of the End"
 date: 2020-12-17T18:30:12Z
-draft: true
+draft: false
 tags: ["start", "FirstPost"]
 categories: ["General"]
 summary: "Lets talk about me!"
@@ -18,6 +18,10 @@ Firstly i hate it when people ask me this question, but i do know where i want t
 
 # My Goals - HomeWise
 I do a few things at home including reading tech books & blogs, Some of which i will be rewiewing and sharing my thoughts on this blog. I also do some coding and i am starting to get into bug bounty hunting. Havn't had my first bug that was worth anything yet but i will also share that on here. I also tinker around with loads of tech things at home.
+
+Well thats it for today hopefully i will add something to this site every week at the least just an update on whats going on.
+
+Elliott
 
 
 

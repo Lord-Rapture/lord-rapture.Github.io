@@ -5,6 +5,25 @@
     <link>https://lord-rapture.github.io/</link>
     <description>Recent content on Lord Rapture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lord-rapture.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Dec 2020 18:30:12 +0000</lastBuildDate><atom:link href="https://lord-rapture.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readme</title>
+      <link>https://lord-rapture.github.io/readme/</link>
+      <pubDate>Thu, 17 Dec 2020 21:06:17 +0000</pubDate>
+      
+      <guid>https://lord-rapture.github.io/readme/</guid>
+      <description>Welcome &amp;hellip; to the website that is all about me. This is an online CV in a kind of way, also a space just to pop down the things that i am trying at home and in work.</description>
+    </item>
+    
+    <item>
+      <title>The start of the End</title>
+      <link>https://lord-rapture.github.io/post/first-post/</link>
+      <pubDate>Thu, 17 Dec 2020 18:30:12 +0000</pubDate>
+      
+      <guid>https://lord-rapture.github.io/post/first-post/</guid>
+      <description>Lets talk about me!</description>
+    </item>
+    
   </channel>
 </rss>
