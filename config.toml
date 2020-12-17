@@ -1,0 +1,5 @@
+baseURL = "http://lord-rapture.github.io"
+languageCode = "en-us"
+title = "Lord Rapture"
+theme = "hugo-notepadium"
+publishDir = "docs"
