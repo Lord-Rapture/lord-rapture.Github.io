@@ -1,4 +1,4 @@
-baseURL = "http://lord-rapture.github.io"
+baseURL = "https://lord-rapture.github.io"
 languageCode = "en-us"
 title = "Lord Rapture"
 theme = "hugo-notepadium"
