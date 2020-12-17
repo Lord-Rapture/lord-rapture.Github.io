@@ -19,6 +19,7 @@ pygmentsUseClasses = true
   rss = false
   location = "Birmingham, UK"
   lastmod = true
+  avatar = "./resources/_gen/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
