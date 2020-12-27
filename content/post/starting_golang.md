@@ -1,5 +1,5 @@
 ---
-title: "Starting_golang"
+title: "Starting_coding"
 date: 2020-12-26T12:56:18Z
 draft: false
 tags: ["start", "golang", "learning", "screeps"] 
